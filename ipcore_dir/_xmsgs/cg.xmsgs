@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="sim" num="172" delta="old" >Generating IP...
+</msg>
+
+<msg type="warning" file="coreutil" num="0" delta="new" >error deleting &quot;C:/Users/Deus/Windows Sync/Xilinx Workspace/Single_Cycle_CPU/ipcore_dir/tmp/_cg/_dbg/&quot;: permission denied
+    while executing
+&quot;file delete -force $transientDirectory&quot;
+    (procedure &quot;::xilinx::GeneratorUtils::cleanTransientOutputs&quot; line 21)
+    invoked from within
+&quot;::xilinx::GeneratorUtils::cleanTransientOutputs $componentInstanceID&quot;
+    (procedure &quot;main&quot; line 44)
+    invoked from within
+&quot;main $argc $argv&quot;
+    invoked from within
+&quot;return [main $argc $argv]&quot;
+    (file &quot;C:\Xilinx\14.7\ISE_DS\ISE\coregen\repository\xilinx.com\generators\customization_generator_v1_0.tcl&quot; line 58)</msg>
+
+<msg type="error" file="sim" num="0" delta="new" >Unable to evaluate Tcl file:
+   C:\Xilinx\14.7\ISE_DS\ISE\coregen\repository\xilinx.com\generators\customization_generator_v1_0.tcl
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" >Failed executing Tcl generator.
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" >Failed to generate &apos;inst_rom&apos;.  Failed executing Tcl generator.
+
+</msg>
+
+</messages>
+

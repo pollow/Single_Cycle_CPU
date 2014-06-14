@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2014-06-11T13:54:51</DateModified>
+  <DateModified>2014-06-14T18:45:09</DateModified>
   <ModuleName>Single_Cycle_CPU</ModuleName>
   <SummaryTimeStamp>2014-06-11T13:54:24</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/Deus/Windows Sync/Xilinx Workspace/S_C_C/iseconfig/Single_Cycle_CPU.xreport</SavedFilePath>
+  <SavedFilePath>C:/Users/Deus/Windows Sync/Xilinx Workspace/Single_Cycle_CPU/iseconfig/Single_Cycle_CPU.xreport</SavedFilePath>
   <ImplementationReportsDirectory>C:/Users/Deus/S_C_C/build\</ImplementationReportsDirectory>
   <DateInitialized>2014-05-20T21:10:38</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>

@@ -1,5 +1,22 @@
 INFO:sim:172 - Generating IP...
-Applying current project options...
-Finished applying current project options.
-Cancelled executing Tcl generator.
-Wrote CGP file for project 'RAM_A'.
+WARNING:coreutil - error deleting "C:/Users/Deus/Windows Sync/Xilinx
+   Workspace/Single_Cycle_CPU/ipcore_dir/tmp/_cg/_dbg/": permission denied
+       while executing
+   "file delete -force $transientDirectory"
+       (procedure "::xilinx::GeneratorUtils::cleanTransientOutputs" line 21)
+       invoked from within
+   "::xilinx::GeneratorUtils::cleanTransientOutputs $componentInstanceID"
+       (procedure "main" line 44)
+       invoked from within
+   "main $argc $argv"
+       invoked from within
+   "return [main $argc $argv]"
+       (file
+   "C:\Xilinx\14.7\ISE_DS\ISE\coregen\repository\xilinx.com\generators\customiza
+   tion_generator_v1_0.tcl" line 58)ERROR:sim - Unable to evaluate Tcl file:
+   C:\Xilinx\14.7\ISE_DS\ISE\coregen\repository\xilinx.com\generators\customizat
+   ion_generator_v1_0.tcl
+ERROR:sim - Failed executing Tcl generator.
+ERROR:sim - Failed to generate 'inst_rom'.  Failed executing Tcl generator.
+
+Wrote CGP file for project 'inst_rom'.
